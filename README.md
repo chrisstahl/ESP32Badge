@@ -1,6 +1,10 @@
 # ESP32Badge
 Source code and resources for the ESP32 Conference Badge
 
+[Greg Huber's video on assembly - part 1](https://www.youtube.com/watch?v=l8pbRDcyUmc)
+
+[Greg Huber's video on assembly - part 2](https://www.youtube.com/watch?v=5SnY-SC2Caw)
+
 ![alt text](https://raw.githubusercontent.com/DigiTorus86/ESP32Badge/master/images/BadgeRender_v1b.png)
 
 Requires the ESP32 conference badge or similar hardware:
